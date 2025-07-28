@@ -85,6 +85,9 @@ which is :
 in Brainfuck and it is less then 200 chars (110).
 
 and injecting that gave me an input window where i can simply put any code I want:
-![[Pasted image 20250728212010.png]]
+![Alt text](Pasted%20image%2020250728212010.png)
 so, I just completed simply with:
-![[Pasted image 20250728212100.png]]
+![Alt text](Pasted%20image%2020250728212100.png)
+
+Flag: `wwf{4n0th3r_CTF_4n0t3r_br41nfcK_ch4ll_7696bd540337f}`
+
